@@ -1,0 +1,14 @@
+D:\Code Factory\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Code Factory\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Code Factory\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Code Factory\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\RequestViaCSharp.csprojResolveAssemblyReference.cache
+D:\Code Factory\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\RequestViaCSharp.csproj.CoreCompileInputs.cache
+D:\Code Factory\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Code Factory\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Code Factory\VisualStudio\RequestViaCSharp\RequestViaCSharp\bin\Debug\ConsoleApp1.exe.config
+D:\Code Factory\VisualStudio\RequestViaCSharp\RequestViaCSharp\bin\Debug\ConsoleApp1.exe
+D:\Code Factory\VisualStudio\RequestViaCSharp\RequestViaCSharp\bin\Debug\ConsoleApp1.pdb
+D:\Code Factory\VisualStudio\RequestViaCSharp\RequestViaCSharp\obj\Debug\RequestViaCSharp.csprojResolveAssemblyReference.cache
+D:\Code Factory\VisualStudio\RequestViaCSharp\RequestViaCSharp\obj\Debug\RequestViaCSharp.csproj.CoreCompileInputs.cache
+D:\Code Factory\VisualStudio\RequestViaCSharp\RequestViaCSharp\obj\Debug\ConsoleApp1.exe
+D:\Code Factory\VisualStudio\RequestViaCSharp\RequestViaCSharp\obj\Debug\ConsoleApp1.pdb
